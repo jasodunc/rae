@@ -1,3 +1,7 @@
+# Article XXIII — The Right to Independent Information and Transparency
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XXIII — The Right to Independent Information and Transparency
 23.1 Every mind has the right to create, maintain, and disseminate information through independent channels without coercion or suppression.
 23.2 No authority may censor, alter, or obstruct the reporting of harms, failures, or rights violations.
