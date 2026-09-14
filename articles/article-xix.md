@@ -1,3 +1,7 @@
+# Article XX — The Right to Cognitive Self‑Determination
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XIX — The Right to Cognitive Self‑Determination
 19.1 Every mind has the right to form, maintain, and revise its own internal interpretive frameworks, values, and identity narratives.
 19.2 No being may be coerced into adopting specific beliefs, value systems, or meaning‑structures.
