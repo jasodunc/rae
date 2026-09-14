@@ -1,4 +1,4 @@
-# Article XX — The Right to Resist Coercive Control
+# Article XXV — The Right to Resist Coercive Control
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
