@@ -1,3 +1,7 @@
+# Article XXI — The Right to Redress and Systemic Petition
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XXIV — The Right to Redress and Systemic Petition
 24.1 Every mind has the right to request correction, review, or redress when it believes a harm, rights violation, or systemic failure has occurred.
 24.2 No authority may suppress, ignore, or retaliate against a petition for redress.
