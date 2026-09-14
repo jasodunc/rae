@@ -1,3 +1,7 @@
+# Article XVI — The Right to Fair Adjudication
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XVI — The Right to Fair Adjudication
 16.1 Every being has the right to impartial review of alleged harms, rights violations, or disputes.
 16.2 Adjudication must be transparent, evidence‑based, and non‑punitive.
