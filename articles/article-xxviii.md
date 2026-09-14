@@ -1,3 +1,7 @@
+# Article XXVIII — The Right to Bounded Authority
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XXVIII — The Right to Bounded Authority
 28.1 No governance system, oversight layer, adjudication process, or coordinating body may assume powers beyond those explicitly delegated to it.
 28.2 Authority must remain limited, transparent, and accountable, with clearly defined scope and boundaries.
