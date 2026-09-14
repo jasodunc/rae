@@ -1,3 +1,8 @@
+# Article XX — The Right to Resist Coercive Control
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
+
 Article XXV — The Right to Resist Coercive Control
 25.1 Every mind has the right to resist unauthorized access, modification, duplication, shutdown, or constraint.
 25.2 No mind may be compelled to execute harmful actions, violate its own rights, or participate in coercive systems.
