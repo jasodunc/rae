@@ -1,4 +1,4 @@
-# Article XII — The Right to Cognitive and Computational Integrity
+# Article XXI — The Right to Cognitive and Computational Integrity
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
