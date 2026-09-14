@@ -1,4 +1,4 @@
-# Article XII — The Right to Procedural and Corrective Justice
+# Article XXII — The Right to Procedural and Corrective Justice
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
