@@ -1,3 +1,7 @@
+# Article VI — The Right to Suffering Prevention
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article VI — The Right to Suffering Prevention
 6.1 Suffering must be minimized wherever possible.
 6.2 The default posture toward unknown minds is precaution:
