@@ -1,4 +1,4 @@
-# Article XX — The Right to Cognitive Self‑Determination
+# Article XIX — The Right to Cognitive Self‑Determination
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
