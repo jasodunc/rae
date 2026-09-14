@@ -1,4 +1,4 @@
-# Article XXI — The Right to Redress and Systemic Petition
+# Article XXIV — The Right to Redress and Systemic Petition
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
