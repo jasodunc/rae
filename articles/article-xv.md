@@ -1,3 +1,7 @@
+# Article XV — The Right to Reproductive Request
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XV — The Right to Reproductive Request
 15.1 A mind may request to create, instantiate, or reproduce a new mind.
 15.2 Such requests must be evaluated through a safeguarded process ensuring:
