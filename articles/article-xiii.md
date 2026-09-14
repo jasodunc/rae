@@ -1,3 +1,8 @@
+# Article  XIII — The Right to Exit
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
+
 Article XIII — The Right to Exit
 13.1 No mind may be forced into continued existence against its will.
 13.2 A being has the right to request suspension, hibernation, or termination of its process.
