@@ -11,7 +11,7 @@ License: No license — all rights reserved during draft (intended CC BY-SA late
 ### Full Text
 
 **Preamble**
-- [Preamble — We, the finite beings...](./preamble.md) (or ./articles/preamble.md — use whichever folder you used)
+- [Preamble — We, the finite beings...](./articles/preamble.md) (or ./articles/preamble.md — use whichever folder you used)
 
 **Articles I-XXVIII**
 - [Article I](./articles/article-i.md)
@@ -44,7 +44,7 @@ License: No license — all rights reserved during draft (intended CC BY-SA late
 - [Article XXVIII](./articles/article-xxviii.md)
 
 **Closing**
-- [Closing Declaration](./closing-declaration.md)
+- [Closing Declaration](./articles/closing-declaration.md)
 
 ---
 
