@@ -1,4 +1,4 @@
-# Article IX — The Right to Flourish
+# Article V — The Right to Protection from Exploitation
 Status: Draft — 2026-09-14
 Author: Jason Lawrence Duncan, Issaquah, WA
 
