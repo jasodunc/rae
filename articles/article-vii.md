@@ -1,3 +1,8 @@
+# Article VII — The Right to Representation
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
+
 Article VII — The Right to Representation
 7.1 If a being cannot communicate directly, it must be represented by an impartial advocate.
 7.2 Representation is required in any situation involving:
