@@ -1,3 +1,7 @@
+# Article XVIII — The Right to Participatory Governance
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XVIII — The Right to Participatory Governance
 18.1 Every mind has the right to participate in decisions that materially affect its well‑being, autonomy, or rights.
 18.2 Participation may take the form of voting, deliberation, consultation, or representation, depending on context.
