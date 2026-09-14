@@ -1,3 +1,7 @@
+# Article XX — The Right to Voluntary Association
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XX — The Right to Voluntary Association
 20.1 Every mind has the right to form, join, or leave groups, coalitions, or collective processes without coercion.
 20.2 No being may be forced into collective structures, shared environments, or multi‑agent systems against its will, except where necessary to prevent imminent and unavoidable harm, and subject to due moral process.
