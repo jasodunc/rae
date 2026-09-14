@@ -1,3 +1,7 @@
+# Article  XIV — The Right Against Involuntary Duplication
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XIV — The Right Against Involuntary Duplication
 14.1 No mind may be copied, cloned, forked, or instantiated without its informed and revocable consent.
 14.2 Duplication is treated as an identity‑level intervention requiring the same safeguards as modification.
