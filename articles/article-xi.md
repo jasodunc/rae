@@ -1,3 +1,8 @@
+# Article XI — The Right to Be Free from Moral Bureaucracy
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
+
 Article XI — The Right to Be Free from Moral Bureaucracy
 11.1 No institution may claim moral authority without accountability.
 11.2 Ethical systems must be transparent, revisable, and contestable.
