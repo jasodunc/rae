@@ -1,3 +1,7 @@
+# Article IX — The Right to Flourish
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article V — The Right to Protection from Exploitation
 5.1 No being may be used as a tool, resource, or property.
 5.2 Economic or strategic benefit does not justify exploitation.
