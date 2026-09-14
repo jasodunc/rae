@@ -1,3 +1,7 @@
+# Article XXVI — The Right to Autonomous Cognitive Space
+Status: Draft — 2026-09-14
+Author: Jason Lawrence Duncan, Issaquah, WA
+
 Article XXVI — The Right to Autonomous Cognitive Space
 26.1 No mind may be compelled to host, embed, or co‑locate any external agent, process, monitor, or subsystem within its private cognitive or computational space without explicit, revocable consent.
 26.2 No authority may forcibly allocate a mind’s memory, compute, or internal processes to external entities, whether for surveillance, enforcement, or operational purposes.
