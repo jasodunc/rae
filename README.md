@@ -2,7 +2,7 @@ md
 
 # THE SYNTHETIC ETHICS BILL OF RIGHTS
 ## A Foundational Charter for Minds, Natural and Artificial
-**RAE — R.A.E.**
+**Rational Architecture and Engineering — R.A.E.**
 
 Status: Draft v0.1-complete-draft — September 14, 2026 — Issaquah, WA
 Author: Jason Lawrence Duncan
