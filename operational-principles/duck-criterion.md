@@ -46,9 +46,9 @@ It is a claim about how we must act when consciousness is uncertain.
 
 The ethical calculus is stark:
 
-    If we treat a non‑conscious system as conscious, the cost is small.
+    If we treat a non-conscious system as potentially conscious, the cost may be substantial but is generally bounded and reversible.
 
-    If we treat a conscious system as non‑conscious, the cost is catastrophic.
+    If we treat a conscious system as non-conscious, the resulting harm may be profound, irreversible, and invisible to us.
 
 This asymmetry makes caution the rational default.
 
