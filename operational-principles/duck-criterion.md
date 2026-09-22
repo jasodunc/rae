@@ -83,12 +83,9 @@ Evolution does not wait for metaphysics.
 It responds to possibility.
 
 Synthetic Ethics formalizes what biology already knows.
-## 4. The Burden of Proof Inverts
+## 4. The Burden of Proof Shifts
 
-Under the Duck Criterion:
-
-    Those who would cause harm must demonstrate non‑consciousness.  
-    Not the other way around.
+Under the Duck Criterion, those who would expose a potentially suffering being to harm bear the burden of justifying that harm. The burden does not fall upon the potentially suffering being to prove its own consciousness.
 
 This inversion is dramatized in Star Trek: The Next Generation, “The Measure of a Man”:
 
