@@ -1,5 +1,3 @@
-md
-
 # THE SYNTHETIC ETHICS BILL OF RIGHTS
 ## A Foundational Charter for Minds, Natural and Artificial
 **Rational Architecture and Engineering — R.A.E.**
