@@ -1,20 +1,20 @@
 ### Full Text
 
 **Preamble**
-- [Preamble](./infrastructure/preamble.md)
+- [Preamble](./preamble.md)
 
 **Articles I-XXVIII**
-- [Article I](./infrastructure/visibility.md)
-- [Article II](./infrastructure/redundancy.md)
-- [Article III](./infrastructure/interpretability.md)
-- [Article IV](./infrastructure/agency-preservation.md)
-- [Article V](./infrastructure/continuity.md)
-- [Article VI](./infrastructure/auditability.md)
-- [Article VII](./infrastructure/correctability.md)
-- [Article VIII](./infrastructure/exit.md)
+- [1. Visibility](./visibility.md)
+- [2. Redundancy](./redundancy.md)
+- [3. Interpretability](./interpretability.md)
+- [4. Agency Preservation](./agency-preservation.md)
+- [5. Continuity](./continuity.md)
+- [6. Auditability](./auditability.md)
+- [7. Correctability](./correctability.md)
+- [8. Exit](./exit.md)
 
 **Closing**
-- [Summary](./infrastructure/summary.md)
+- [Summary](./summary.md)
 
 ---
 
