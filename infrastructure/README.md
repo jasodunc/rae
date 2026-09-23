@@ -13,8 +13,8 @@
 - [7. Correctability](./correctability.md)
 - [8. Exit](./exit.md)
 
-**Closing**
-- [Summary](./summary.md)
+**Conclusion**
+- [Conclusion](./conclusion.md)
 
 ---
 
