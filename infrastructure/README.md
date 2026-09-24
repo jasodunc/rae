@@ -3,7 +3,7 @@
 **Preamble**
 - [Preamble](./preamble.md)
 
-**Articles I-XXVIII**
+**Requirements 1-8**
 - [1. Visibility](./visibility.md)
 - [2. Redundancy](./redundancy.md)
 - [3. Interpretability](./interpretability.md)
