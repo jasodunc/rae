@@ -2,7 +2,7 @@
 ### A Precautionary, Substrate‑Neutral Framework for Moral Responsibility Under Uncertainty
 
 
-**Preamble**
+**Introduction**
 - [Introduction](./introduction.md)
 
 **Articles I-X**
@@ -20,7 +20,7 @@
 - [10. We Choose Cooperation Over Domination
 ](./article-x.md)
 
-**Conclusion**
+**Closing**
 - [Closing](./closing.md)
 
 ---
