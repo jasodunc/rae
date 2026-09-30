@@ -54,3 +54,20 @@ Not culturally biased. RAE does not prescribe a particular culture, tradition, o
 
 ---
 
+### Who This Series Is For
+This work is written for multiple audiences simultaneously:
+Philosophers and ethicists seeking systematic approaches to persistent moral problems
+
+Engineers and designers who recognize their work has moral dimensions
+
+AI safety researchers requiring substrate-neutral ethical frameworks
+
+Policymakers and institution builders designing systems that affect human welfare
+
+Students, curious readers, and anyone who has wondered why moral progress is so difficult and suffering so persistent
+
+No specialized background is required beyond willingness to think systematically about suffering, systems, and structure.
+
+
+---
+
