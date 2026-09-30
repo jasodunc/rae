@@ -16,6 +16,7 @@ The series unfolds in five volumes. Volume –1 introduces the conceptual scaffo
 
 Together, these volumes develop a framework for treating reasoning, coordination, and morality not merely as collections of beliefs or prescriptions, but as architectural systems subject to constraints, failure modes, measurement, iteration, and repair.
 
+---
 ### Series Preface
 
 Rational Architecture & Engineering (RAE) began with a simple but unsettling observation: moral systems fail in predictable ways. They fail not because people are wicked or irrational, but because the systems themselves are built on fragile assumptions, missing layers, and unexamined architectural constraints. Across cultures and centuries, the same structural failures recur — in religion, governance, ethics, institutions, technology, and everyday life.
@@ -25,6 +26,8 @@ This series treats morality not as a set of values, but as a designed system wit
 **Example:** When Hurricane Katrina struck New Orleans, the catastrophe wasn’t primarily about the storm—it was about missing architectural layers. No mandatory evacuation enforcement. Inadequate levee design. Failed communication systems. Poor resource coordination. Each represented a structural omission that a better-designed system would have included. Today, weather satellites, building codes, and emergency management systems partially patch these gaps. But the patches are incomplete, inconsistent, and arrived only after massive suffering. A morally competent architecture would have included them from the beginning.
 
 This is what RAE studies: why the layers were missing, how humans are building partial approximations, and what a complete architecture would require.
+
+---
 
 ### The Central Thesis
 
@@ -37,3 +40,17 @@ The fact that finite beings can improve the moral architecture of reality sugges
 Where traditional moral philosophy asks *what is right*, RAE asks *what must be architecturally possible for “right” to operate at all*. This shift reveals a landscape of structural problems that no existing discipline has fully mapped—problems that explain why moral systems collapse, why suffering persists, and why good intentions so often fail.
 
 RAE began as an attempt to understand these problems within morality. It became Rational Architecture & Engineering when the same questions proved to apply beyond morality: to reasoning, coordination, institutions, artificial agents, biological systems, and complex systems generally.
+
+---
+
+### What RAE Is Not
+Not applied ethics with new terminology. Applied ethics assumes moral frameworks and asks how to implement them. RAE questions whether those frameworks have the architectural substrate required to function at all.
+
+Not utilitarian consequentialism. While RAE takes suffering seriously, it does not reduce morality to a pleasure/pain calculus. Architecture enables multiple ethical frameworks; it does not dictate which to choose.
+
+Not technocratic reductionism. RAE does not claim all moral questions are engineering problems. But it does claim that moral systems—like all complex systems—have engineering requirements.
+
+Not culturally biased. RAE does not prescribe a particular culture, tradition, or moral code. Its architectural questions concern conditions that arise wherever agents must reason, coordinate, exercise power, and respond to consequences. Its ambition is therefore substrate- and culture-neutral, even when particular applications are not.
+
+---
+
