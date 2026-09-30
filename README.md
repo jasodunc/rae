@@ -71,3 +71,18 @@ No specialized background is required beyond willingness to think systematically
 
 ---
 
+### The RAE Approach
+
+RAE combines methods from several disciplines:
+
+* Systems analysis to identify architectural failures
+
+* Engineering principles to design robust solutions
+
+* Empirical observation to track what humans have already built
+
+* Formal modeling to ensure logical coherence
+
+* Comparative analysis to evaluate alternatives
+
+In short, RAE rigorously analyzes complex systems as engineered artifacts, without assuming a particular culture, value system, or philosophical doctrine. Moral systems are an important application, but not the boundary of the framework. The result is a framework that is rigorous without being mathematical, practical without being simplistic, and universal without being culturally imperialist.
