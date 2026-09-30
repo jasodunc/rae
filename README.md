@@ -86,3 +86,12 @@ RAE combines methods from several disciplines:
 * Comparative analysis to evaluate alternatives
 
 In short, RAE rigorously analyzes complex systems as engineered artifacts, without assuming a particular culture, value system, or philosophical doctrine. Moral systems are an important application, but not the boundary of the framework. The result is a framework that is rigorous without being mathematical, practical without being simplistic, and universal without being culturally imperialist.
+
+---
+
+### Intellectual Foundations
+
+RAE builds on insights from game theory, mechanism design, institutional economics, AI safety research, and complex systems science. It synthesizes these into a unified architectural framework for analyzing complex systems as engineered artifacts. Where it departs from these fields is in treating the architecture of reasoning, coordination, agency, and action—not just institutions or behaviors—as requiring systematic architectural analysis.
+
+Moral systems remain a central application of this framework: RAE asks not only what a moral system says, but what architectural conditions must exist for its principles to function reliably.
+
