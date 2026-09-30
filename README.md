@@ -106,4 +106,15 @@ Volume III — Application: Applying RAE to real-world systems, institutions, te
 Together, these volumes form the blueprint for a discipline that treats complex systems—including moral systems—with the same rigor applied to engineering, safety, and system design. The goal is not to replace human judgment, but to give it a foundation strong enough to bear the weight of the world.
 
 ---
+### What RAE Is
+
+Rational Architecture & Engineering (RAE) is a structural discipline that studies the conditions under which complex systems function, fail, adapt, and repair themselves. It treats systems the way engineers treat physical infrastructure: as architectures with constraints, failure modes, missing layers, and design requirements.
+RAE does not replace ethics. It provides the architectural foundation that ethics requires. Where traditional moral philosophy asks what is right, RAE asks what must be structurally present for “right” to function at all. It examines the architecture beneath moral action: the layers of knowledge, safety, fairness, predictability, and agency that make coherent action possible in the first place.
+RAE is substrate-neutral. It applies to biological minds, artificial minds, hybrid minds, and other systems capable of reasoning, acting, coordinating, or suffering. It is not a cultural framework, a moral theory, or a political ideology. It is a field of inquiry grounded in systems analysis, engineering logic, and empirical observation.
+RAE begins with a simple observation: systems do not fail only because their components are defective. They fail because the architecture connecting those components is incomplete. Avoidable suffering is one particularly important manifestation of this principle. Moral progress, then, can be understood as the construction of architectural layers that make avoidable harm less likely.
+
+#### The Whole Picture (in one sentence)
+RAE is a structural discipline that maps the missing layers of complex systems, studies the patches humans build to compensate for them, and develops architectures that make systems more coherent, stable, adaptive, and capable of repair.  
+
+---
 
