@@ -118,3 +118,145 @@ RAE is a structural discipline that maps the missing layers of complex systems, 
 
 ---
 
+### Volume –1: Orientation Map
+
+#### How to Use This Volume
+
+Volume –1 is not doctrine.
+
+It is the **airlock** into the discipline — the conceptual scaffolding that prepares you for the architecture that follows. The sections in this volume are not chapters in a linear argument but **orientation points**, each introducing a structural metaphor or lens that will recur throughout the series.
+
+Think of this map as a guide to the terrain you are about to cross.
+
+##### 1. Why This Volume Exists
+
+* Preparing your mind for RAE
+* The shift from moral philosophy toward architectural analysis
+
+##### 2. How Volume –1 Relates to Volume 0
+
+* Metaphors vs. discipline
+* Orientation and foundational readiness
+
+##### 3. How to Read This Volume
+
+* Non-linear reading
+* Observing patterns, noticing metaphors
+
+##### 4. What This Volume Does Not Do
+
+* Distinguishing orientation from formal content
+* Clarifying the limits of this volume
+
+##### 5. Where This Volume Leaves You
+
+* Conceptual readiness for Volume 0
+* Intuition for architectural thinking
+
+##### 6. Key Structural Lenses *(Optional subsection if you want to introduce some “fundamental principles” prose without labeling them as doctrine)*
+
+* Early metaphors
+* Observing suffering as a structural signal
+* Core criteria (e.g., Duck Criterion) in orientation form
+
+---
+
+#### 1. Why This Volume Exists
+
+Volume –1 introduces the cognitive tools required to read RAE at all.
+
+It prepares your architecture for the shift from moral philosophy toward architectural analysis.
+
+Without this orientation, the later volumes read as critique; with it, they read as structure.
+
+#### 2. How Volume –1 Relates to Volume 0
+
+Volume –1 gives you the metaphors.
+
+Volume 0 gives you the discipline.
+
+Together they form the foundation:
+
+* Volume –1: *orientation, vocabulary, intuition*
+* Volume 0: *definitions, methods, constraints*
+
+You can read Volume –1 quickly or slowly, but you should not skip it.
+
+It prepares the cognitive architecture that Volume 0 assumes.
+
+#### 3. How to Read This Volume
+
+* Do not treat these sections as doctrine.
+* Do not look for conclusions.
+* Do not expect linear argumentation.
+
+Instead:
+
+* Notice the patterns.
+* Notice the metaphors.
+* Notice how each section reframes suffering as a structural signal.
+
+These reframings will become essential once you reach Volume I.
+
+#### 4. What This Volume Does Not Do
+
+Volume –1 does **not**:
+
+* define RAE
+* present the ten architectural preconditions
+* introduce the formal vocabulary
+* diagnose failure modes
+* construct solutions
+
+Those belong to Volume 0 and beyond.
+
+Volume –1 simply ensures that when you encounter those ideas, your mind is already shaped to receive them.
+
+#### 5. Where This Volume Leaves You
+
+By the end of Volume –1, you should have:
+
+* a sense of the field’s purpose
+* a feel for its metaphors
+* an intuition for architectural thinking
+* a readiness for the formal structure of Volume 0
+
+You are not expected to master anything here.
+
+You are expected to **orient**.
+
+The work begins in Volume 0.
+
+Volume –1 simply ensures you can see the architecture when you arrive.
+
+#### 6. Key Structural Lenses
+
+Some ideas recur across all of RAE. They are not rules, and they are not conclusions. They are ways of seeing. Think of them as lenses that will help your mind align with the architecture you are about to study.
+
+##### Suffering as Signal
+
+Suffering is not just personal pain, moral failure, or cosmic punishment. It is a structural signal. Like the bending of a bridge under load, suffering tells you where a system is failing. Some signals are subtle, others catastrophic. Noticing them is the first step in understanding what is missing in the architecture.
+
+##### The Unformatted Mind
+
+Humans arrive in the world unfinished. Unlike turtles or capybaras, we are born with enormous potential and almost no pre-installed software. We must learn language, norms, reasoning, and morality itself. This fragility is the very filter that makes culture and technology possible—but it also makes suffering unavoidable. Recognizing the instability of an unformatted mind helps us see why moral architecture is necessary.
+
+##### Behavior as Evidence
+
+We cannot enter another being’s interior experience. We do not feel their thoughts or emotions directly. We can only observe patterns of behavior. This is the “Duck Criterion”: if it behaves like it is suffering, treat it as if it might be. This applies to infants, animals, artificial systems, and potentially alien minds. Ethics in the RAE framework begins with behavior, not consciousness.
+
+##### Patterns Over Stories
+
+Throughout history, humans have tried to explain morality and suffering through stories, commandments, rituals, and myths. These narratives comfort, instruct, and inspire—but they often obscure the underlying structure. In this series, you will learn to see beyond stories: to identify layers, interactions, and constraints.
+
+##### Hierarchy and Rarity
+
+Across both physical and moral systems, the same structural patterns recur: simple, dominant phases; intermediate, subdominant phases; rare, complex phases. Hydrogen and helium. Dark energy and baryons. Easy behaviors and hard behaviors. The universe organizes itself in hierarchies, and the architecture of moral systems is no different. Recognizing this shape is essential.
+
+##### Recursion and Emergence
+
+Many concepts will reappear at multiple levels. Observations in one domain illuminate patterns in another. Expect recursion: a principle seen in one context will echo elsewhere, often in more complex or abstract forms. The ability to track these echoes is central to understanding RAE.
+
+##### Preparedness, Not Mastery
+
+Volume –1 is orientation, not mastery. You are not expected to memorize concepts or apply them yet. You are preparing your cognitive architecture to perceive patterns, notice structural signals, and approach Volume 0 with an eye for layers and constraints.
