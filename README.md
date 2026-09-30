@@ -95,3 +95,15 @@ RAE builds on insights from game theory, mechanism design, institutional economi
 
 Moral systems remain a central application of this framework: RAE asks not only what a moral system says, but what architectural conditions must exist for its principles to function reliably.
 
+---
+
+### Volumes of the Series
+The four volumes reflect the natural progression of the field:
+Volume 0 — Foundations: Defining RAE and its substrate-level constraints
+Volumes IA and IB — Diagnosis: Mapping missing layers, failure modes, and architectural impossibilities
+Volume II — Construction: Designing robust systems and building the layers reality currently lacks
+Volume III — Application: Applying RAE to real-world systems, institutions, technologies, and civilizations
+Together, these volumes form the blueprint for a discipline that treats complex systems—including moral systems—with the same rigor applied to engineering, safety, and system design. The goal is not to replace human judgment, but to give it a foundation strong enough to bear the weight of the world.
+
+---
+
