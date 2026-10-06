@@ -260,3 +260,98 @@ Many concepts will reappear at multiple levels. Observations in one domain illum
 ##### Preparedness, Not Mastery
 
 Volume –1 is orientation, not mastery. You are not expected to memorize concepts or apply them yet. You are preparing your cognitive architecture to perceive patterns, notice structural signals, and approach Volume 0 with an eye for layers and constraints.
+
+### How to Read This Series
+
+This series is designed as an **architecture**, not a linear argument. Each volume builds on the layers beneath it, and each layer changes how the next one is understood. You can read the volumes individually, but the full structure becomes visible only when they are read in sequence.
+
+##### 1. Start with Volume –1 and Volume 0
+
+These provide the conceptual scaffolding:
+
+* **Volume –1** orients you to RAE, its vocabulary, and the purpose of the series.
+* **Volume 0** establishes the foundational architecture beneath rational and moral systems—its methods, constraints, and object of study.
+
+Together, they give you the tools to understand the rest of the series.
+
+##### 2. Read Volume I as diagnosis, not critique
+
+Volume I is a structural analysis of why moral systems fail:
+
+* Missing layers
+* Predictable failure modes
+* Architectural impossibilities
+* Human-built patches that partially repair the world
+
+It identifies what is broken—not who is to blame.
+
+##### 3. Read Volume II as construction, not theory
+
+Volume II is the engineering half of the field. It provides:
+
+* The non-abandonment arc (internal reconstruction)
+* The transition into system design
+* The first operational tools of Synthetic Ethics
+* Architectural principles for building moral systems that scale
+
+This is where **moral architecture becomes a design discipline**.
+
+##### 4. Read Volume III as application, not speculation
+
+Volume III demonstrates RAE in practice:
+
+* Historical catastrophes as architectural failures
+* Institutional analysis
+* Emerging technologies
+* Cross-substrate moral design
+* Civilization-level progress metrics
+
+It shows how the framework works in real systems.
+
+##### 5. Expect recursion, not repetition
+
+Concepts introduced early reappear later at higher levels of abstraction. This is intentional: RAE is a **recursive architecture**, and each layer reframes those beneath it.
+
+##### 6. You do not need a background in philosophy or engineering
+
+The only prerequisites are:
+
+* Curiosity
+* Willingness to think structurally
+* Openness to reframing suffering as a system-level signal
+
+Everything else is introduced as needed.
+
+##### 7. Read at your own altitude
+
+Some readers will focus on:
+
+* Philosophical implications
+* Engineering logic
+* Historical analysis
+* Future-oriented design
+
+Others will read the series as a unified framework. All approaches are valid.
+
+##### 8. The series is modular, but the order matters
+
+You can dip into individual sections, but the architecture unfolds in a sequence:
+
+**Foundations → Diagnosis → Construction → Application**
+
+Skipping ahead is possible, but the conceptual load increases sharply without the earlier layers.
+
+##### 9. This is not a book to agree or disagree with
+
+RAE is not a moral theory. It is a structural analysis. Evaluate it like engineering:
+
+* Does it explain the failure modes?
+* Does it predict the patterns?
+* Does it reduce suffering when applied?
+
+Agreement is optional; usefulness is the metric.
+
+##### 10. Treat this series as the beginning of a field
+
+RAE is not a closed system. It is an invitation to participate in the construction of a new discipline—one that treats suffering as a **solvable architectural problem**.
+
