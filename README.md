@@ -411,3 +411,47 @@ No single mind can hold the full weight of moral complexity. Progress depends on
 RAE provides the scaffolding within which moral action is possible. It does not prescribe which values or choices are “correct.” Its role is to make moral agency feasible, transparent, and resilient.
 
 ---
+
+### A Brief Glossary of Rational Architecture & Engineering
+This glossary introduces the core vocabulary used throughout the series. These terms are not slogans or metaphors — they are technical handles for recurring structural phenomena.
+
+**Moral Architecture**
+The structural conditions that make suffering possible, predictable, or preventable. Moral architecture refers to layers of reality — physical, biological, cognitive, social, and epistemic — that shape moral outcomes independently of individual intentions.
+
+**Rational Architecture & Engineering (RAE)**
+The discipline that studies moral systems as engineered structures with constraints, failure modes, and design requirements. RAE analyzes why suffering persists and how missing layers can be constructed to reduce it.
+
+**Architectural Layer**
+A structural feature of reality that systematically enables safety, predictability, fairness, or agency. Examples include hazard detection, knowledge infrastructure, communication systems, and fairness mechanisms.
+
+**Missing Layer**
+An absent or incomplete architectural layer whose omission generates predictable suffering. Missing layers are the primary explanatory targets of RAE.
+
+**Strike**
+A recurring architectural failure mode that produces systematic harm across cultures, eras, or systems. Strikes are not moral mistakes; they are design failures that reappear wherever the same layers are absent.
+
+**Human Patch / Patchwork**
+A partial, imperfect layer constructed by humans to compensate for missing architecture in reality. Examples include weather forecasting, public health systems, civil rights frameworks, and shared knowledge platforms.
+
+**Avoidable Suffering**
+Harm that persists not because it is metaphysically necessary, but because structural protections are absent. Avoidable suffering is the central signal MAE seeks to detect and eliminate.
+
+**Substrate-Neutral**
+Applicable to any kind of agent or system regardless of its physical or computational implementation. RAE applies equally to biological minds, artificial minds, hybrid systems, and unknown future agents.
+
+**Epistemic Infrastructure**
+The systems that generate, store, transmit, and validate knowledge. Epistemic infrastructure reduces uncertainty, enables coordination, and functions as a core moral layer by preventing predictable harm.
+
+**Moral Progress**
+Not a change in beliefs or values alone, but the measurable construction of architectural layers that reduce harm, increase safety, and stabilize agency across systems.
+
+**Non-Abandonment**
+The principle that moral systems must not discard agents once they become vulnerable, dependent, or cognitively strained. Non-abandonment is a foundational requirement for any humane architecture.
+
+**Synthetic Ethics**
+The constructive branch of RAE focused on designing moral systems deliberately rather than inheriting them passively. Synthetic Ethics treats morality as something that can be built, tested, and iterated.
+
+**Architectural Completeness**
+The degree to which a system includes all necessary layers to prevent predictable harm. Completeness is always approximate; the question is not perfection, but sufficiency.
+
+
