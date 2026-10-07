@@ -261,6 +261,8 @@ Many concepts will reappear at multiple levels. Observations in one domain illum
 
 Volume –1 is orientation, not mastery. You are not expected to memorize concepts or apply them yet. You are preparing your cognitive architecture to perceive patterns, notice structural signals, and approach Volume 0 with an eye for layers and constraints.
 
+---
+
 ### How to Read This Series
 
 This series is designed as an **architecture**, not a linear argument. Each volume builds on the layers beneath it, and each layer changes how the next one is understood. You can read the volumes individually, but the full structure becomes visible only when they are read in sequence.
@@ -355,3 +357,57 @@ Agreement is optional; usefulness is the metric.
 
 RAE is not a closed system. It is an invitation to participate in the construction of a new discipline—one that treats suffering as a **solvable architectural problem**.
 
+---
+
+### The Series Architecture
+This series is structured as a progression through the layers of Rational Architecture & Engineering (RAE), moving from foundations to diagnosis, from construction to application. Each volume serves a distinct role in the development of the field, and together they form a coherent blueprint for understanding and designing moral systems.
+#### Volume –1 — Orientation to the Field
+*Series wrapper.*  
+This volume introduces the reader to RAE as a discipline: its purpose, vocabulary, and conceptual landscape. It explains how to read the series, provides the high‑level field definition, and situates the doctrine within the broader intellectual terrain. It is the entry point for understanding what RAE is and why it exists.
+#### Volume 0 — Moral Architecture
+*Foundational architecture.* 
+This volume establishes the substrate‑level framework of RAE by articulating the ten architectural preconditions that any moral system must satisfy to function. It identifies the discipline’s unique methods, constraints, and object of study, and positions RAE relative to adjacent fields. It provides the conceptual tools required for all subsequent analysis.
+#### Volume I — The Capybara Framework
+*Diagnostic architecture.*
+This volume systematically catalogs structural failures in existing moral systems — religious, philosophical, and institutional. Through detailed analysis of specific strikes (architectural failure modes that generate predictable suffering), it demonstrates how predictable patterns of suffering emerge from missing layers. It includes the backwards proof: evidence that human-built improvements reveal divine architectural failures. This is diagnostic work: understanding what’s broken before proposing repairs.
+#### Volume II — Synthetic Ethics
+*Constructive architecture.*
+This volume transitions from diagnosis to design. It provides principles for constructing moral systems that avoid known failure modes, methods for approximating missing architectural layers, and frameworks for evaluating institutional designs. This is the constructive complement to Volume I's critique: not just identifying what’s broken, but engineering what could work.
+#### Volume III — Applications and Case Studies
+*Applied architecture.*
+This volume demonstrates RAE in practice through detailed case studies: architectural analysis of historical catastrophes, comparative assessment of institutional designs, evaluation of emerging technologies, and civilization-level moral progress metrics. It shows how the framework generates actionable insights for policy, engineering, and institutional reform.
+
+--- 
+
+### Field Definition: Rational Architecture & Engineering (RAE)
+**A New Domain of Inquiry**
+Rational Architecture & Engineering (RAE) is the structural study of the conditions under which complex systems function, fail, adapt, and repair. It asks not what is right or good, but what must be architecturally present for “right” to function at all. It treats suffering as a systemic signal, not merely a personal experience, and studies the conditions under which harm arises, persists, or is preventable.
+RAE begins with a simple observation: avoidable suffering is a structural failure, and moral progress is the construction of the missing layers that prevent it. These layers include knowledge systems, safety systems, fairness systems, communication networks, and provisioning systems — what we might call the infrastructure of morality.
+
+### Core Principles of Rational Architecture & Engineering
+RAE is built on a small set of foundational principles — truths that hold regardless of culture, substrate, or scale. These principles serve as the compass for the field, guiding analysis, design, and evaluation.
+
+**Avoidable Suffering is an Architectural Failure**
+Suffering is not inevitable. Where harm recurs predictably, it signals a missing layer, a failed design, or an absent infrastructure. Identifying these gaps is the starting point for moral progress.
+
+
+**Moral Progress = Construction of Missing Layers**
+Ethics is not only about intentions or rules. True moral advancement is measurable in the layers, systems, and structures that reduce harm, improve predictability, and enable safety across agents and contexts.
+
+
+**Systems are Substrate-Neutral**
+The principles of RAE apply to any agent capable of experiencing or causing suffering: biological, artificial, hybrid, or yet unknown. RAE is substrate-neutral because it analyzes architectural conditions rather than the identity of the substrate or agent. Moral architecture is one application of this broader principle, particularly where systems can experience or cause harm.
+
+
+**Diagnosis Precedes Design**
+Before any intervention, the structural causes of suffering must be mapped, understood, and measured. Patching problems without diagnosing failure modes is ineffective and may create new layers of harm.
+
+
+**Distributed Cognition is Required**
+No single mind can hold the full weight of moral complexity. Progress depends on shared reasoning, collaborative construction, and communal reflection — the architecture of thought mirrors the architecture of the world.
+
+
+**Architecture Guides Ethics, Not Dictates It**
+RAE provides the scaffolding within which moral action is possible. It does not prescribe which values or choices are “correct.” Its role is to make moral agency feasible, transparent, and resilient.
+
+---
