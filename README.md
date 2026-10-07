@@ -380,7 +380,9 @@ This volume demonstrates RAE in practice through detailed case studies: architec
 --- 
 
 ### Field Definition: Rational Architecture & Engineering (RAE)
+
 **A New Domain of Inquiry**
+
 Rational Architecture & Engineering (RAE) is the structural study of the conditions under which complex systems function, fail, adapt, and repair. It asks not what is right or good, but what must be architecturally present for “right” to function at all. It treats suffering as a systemic signal, not merely a personal experience, and studies the conditions under which harm arises, persists, or is preventable.
 RAE begins with a simple observation: avoidable suffering is a structural failure, and moral progress is the construction of the missing layers that prevent it. These layers include knowledge systems, safety systems, fairness systems, communication networks, and provisioning systems — what we might call the infrastructure of morality.
 
@@ -454,4 +456,54 @@ The constructive branch of RAE focused on designing moral systems deliberately r
 **Architectural Completeness**
 The degree to which a system includes all necessary layers to prevent predictable harm. Completeness is always approximate; the question is not perfection, but sufficiency.
 
+---
 
+#### Why This Glossary Exists
+Traditional moral debates fail in part because participants use the same words to describe different structures. RAE introduces a shared vocabulary so failure modes can be identified, compared, and repaired with precision.
+You are not being asked to memorize these terms.
+You are being given tools.
+They will recur, deepen, and formalize as the series progresses.
+
+---
+
+### Closing: Entering the Discipline
+
+Rational Architecture & Engineering is not a theory to be accepted or rejected. It is a **lens, a method, and a set of tools** for seeing the architecture of complex systems with greater clarity.
+
+This project began with suffering. Once suffering is interpreted as an architectural signal, the landscape changes. Patterns that once seemed mysterious become structurally legible. Failures that once felt purely personal can reveal missing infrastructure. Progress that once appeared accidental can become legible as the construction of missing layers.
+
+The moral application remains central. RAE asks what must be structurally present for agency, coordination, safety, fairness, and moral action to function reliably. But the same architectural questions extend beyond morality—to reasoning, knowledge, institutions, artificial agents, and other complex systems.
+
+This series is an invitation to think **systemically**: to examine the architectures we inhabit and the ones we help create with the same rigor applied to engineering, safety, and infrastructure. It asks us to treat avoidable suffering not as an inevitable feature of reality, but as a **solvable architectural problem** wherever the relevant conditions for prevention can be constructed.
+
+You are not entering a closed doctrine.
+
+You are entering a **field**.
+
+The chapters ahead introduce the tools, concepts, and frameworks of RAE. They will show how missing layers generate predictable failures, how humans construct partial patches, and how systems can become more coherent, stable, adaptive, and capable of repair. They will also demonstrate how these principles apply across scales—from individual experience to institutions, technologies, and future civilizations.
+
+The work begins in Volume 0.
+
+What follows is the foundation of a discipline.
+
+From suffering to design: the architecture of systems that can function, adapt, and repair.
+
+---
+
+### Author’s Note: The Philosopher as Test Subject
+
+In developing this framework, I have become uncomfortably aware that I am, in effect, my own test subject — not unlike Justin Schmidt, who allowed himself to be stung dozens of times in order to understand and classify pain.
+Schmidt sought to give structure to suffering by first enduring it. I am attempting something similar, though my stings are conceptual rather than venomous. The recursive nature of this inquiry — building a moral framework that tests itself, critiques itself, and turns inward — generates its own form of psychic and ethical friction. It is mentally dangerous work.
+If this series feels taxing, even destabilizing, that reaction may itself be data. Sustained confrontation with suffering, abstraction, and moral recursion exposes the limits of individual cognition and emotional tolerance. It reveals something essential: no single mind should be asked to hold the full weight of moral reality alone.
+
+That realization matters.
+
+The goal here is not martyrdom in the name of morality.
+
+It is proof that moral progress requires distribution.
+
+If Schmidt’s lesson was that pain must be measured through experience, the parallel lesson here is that moral reflection must be shared to remain sane. Moral architecture, like physical infrastructure, cannot be carried by one person without collapse.
+
+So yes — I am the first test subject.
+
+But if this discipline is sound, I should also be the last one required to endure it alone.
