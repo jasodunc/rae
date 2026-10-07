@@ -436,7 +436,7 @@ A recurring architectural failure mode that produces systematic harm across cult
 A partial, imperfect layer constructed by humans to compensate for missing architecture in reality. Examples include weather forecasting, public health systems, civil rights frameworks, and shared knowledge platforms.
 
 **Avoidable Suffering**
-Harm that persists not because it is metaphysically necessary, but because structural protections are absent. Avoidable suffering is the central signal MAE seeks to detect and eliminate.
+Harm that persists not because it is metaphysically necessary, but because structural protections are absent. Avoidable suffering is the central signal RAE seeks to detect and eliminate.
 
 **Substrate-Neutral**
 Applicable to any kind of agent or system regardless of its physical or computational implementation. RAE applies equally to biological minds, artificial minds, hybrid systems, and unknown future agents.
